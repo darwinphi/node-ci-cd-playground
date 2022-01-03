@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/darwinphi/node-ci-cd-playground/issues"
   },
-  "homepage": "https://github.com/darwinphi/node-ci-cd-playground#readme"
+  "homepage": "https://github.com/darwinphi/node-ci-cd-playground#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
