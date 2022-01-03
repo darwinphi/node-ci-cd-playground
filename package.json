@@ -4,6 +4,7 @@
   "description": "This is playground repo for ci/cd",
   "main": "index.js",
   "scripts": {
+    "test": ""
   },
   "repository": {
     "type": "git",
