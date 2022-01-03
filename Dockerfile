@@ -8,4 +8,6 @@ RUN npm install
 
 COPY . .
 
-ENTRYPOINT [ "echo", "Hello World" ]
+EXPOSE 5000
+
+CMD [ "npm", "start" ]
